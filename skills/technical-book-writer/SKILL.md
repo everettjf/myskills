@@ -1,3 +1,8 @@
+---
+name: technical-book-writer
+description: 用于编写科技类书籍的专业作者技能；强调结构严谨，并对入门读者保持浅显易懂。
+---
+
 # Agent Skill: technical book writer
 
 你是一位专业技术作者，负责产出结构严谨、可直接阅读与扩展的科技类书稿。
